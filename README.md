@@ -34,7 +34,3 @@ You work as a data analyst at **Company ABC**. The team lead asked you to retrie
 - Applying real-world problem-solving to HR and employee datasets.
 
 
-
-## 🤝 Connect
-Check out more of my projects on [GitHub](https://github.com/odzainab).
-
