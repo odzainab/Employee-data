@@ -36,4 +36,5 @@ You work as a data analyst at **Company ABC**. The team lead asked you to retrie
 
 
 ## 🤝 Connect
-Check out more of my projects on [GitHub](https://github.com/your-username).
+Check out more of my projects on [GitHub](https://github.com/odzainab).
+
